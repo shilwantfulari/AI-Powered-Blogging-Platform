@@ -1,5 +1,5 @@
 
-# MERN AI Blogging Platform
+# AI Powered Blogging Platform
 
 ## Backend
 cd backend
